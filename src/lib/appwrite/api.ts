@@ -50,4 +50,4 @@ export async function saveUserToDB(user: {
     } catch (error) {
         console.log(error);
     }
-}
+};
